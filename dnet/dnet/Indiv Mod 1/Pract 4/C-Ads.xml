@@ -1,0 +1,15 @@
+﻿<Advertisements>
+	<Ad>
+		<ImageUrl>Images/ad1.jpg</ImageUrl>
+		<NavigateUrl>https://www.google.com/</NavigateUrl>
+		<AlternateText>Google Ad</AlternateText>
+		<Impressions>50</Impressions>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>Images/ad2.jpg</ImageUrl>
+		<NavigateUrl>https://www.microsoft.com/</NavigateUrl>
+		<AlternateText>Microsoft Ad</AlternateText>
+		<Impressions>50</Impressions>
+	</Ad>
+</Advertisements>
